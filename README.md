@@ -1,7 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Norman Luengo 
-=====================================================================================================================================  
+=====================================================================================================================================
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?    lines=Senior+AI/ML+engineer;Data+enthusiast;Loves+Physics+and+AI;Pythonist&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+<!-- markdownlint-enable MD033 -->
 
-A passionate and innovative professional with a strong foundation in data engineering, data science, and advanced AI solutions. I specialize in leveraging data to solve complex problems and deliver impactful results. My career spans designing scalable pipelines, building predictive models, and developing innovative AI-driven solutions across various industries, including retail and finance. With extensive experience in Python, cloud platforms, and modern AI tools, I excel in creating end-to-end systems that integrate advanced analytics, machine learning, and cutting-edge Generative AI technologies. My work includes deploying full-stack applications, optimizing workflows through automation, and delivering state-of-the-art AI solutions tailored to real-world challenges. I thrive at the intersection of technology and creativity, continuously exploring ways to push the boundaries of AI and its applications. My approach combines technical expertise with a strategic vision to design impactful, future-ready solutions.  
+
+A passionate and innovative professional with a strong foundation in data science, advanced AI solutions and data engineering. I specialize in leveraging data to solve complex problems and deliver impactful results. My career spans designing scalable pipelines, building predictive models, and developing innovative AI-driven solutions across various industries, including retail and finance. With extensive experience in Python, cloud platforms, and modern AI tools, I excel in creating end-to-end systems that integrate advanced analytics, machine learning, and cutting-edge Generative AI technologies. My work includes deploying full-stack applications, optimizing workflows through automation, and delivering state-of-the-art AI solutions tailored to real-world challenges. I thrive at the intersection of technology and creativity, continuously exploring ways to push the boundaries of AI and its applications. My approach combines technical expertise with a strategic vision to design impactful, future-ready solutions.  
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [luengo.norman@gmail.com](mailto:luengo.norman@gmail.com)
 * 🧠  I'm learning Rust
